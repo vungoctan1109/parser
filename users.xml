@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<users xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://www.w3schools.com"
+       xsi:schemaLocation="users.xsd">
+    <user>
+        <teacher id="1">
+            <firstname>Vu</firstname>
+            <lastname>Tan</lastname>
+            <email>vntan1109@gmail.com</email>
+            <phone>0943683686</phone>
+            <age>21</age>
+            <position>Hieu truong</position>
+            <department>toa D</department>
+        </teacher>
+    </user>
+    <user>
+        <teacher id="2">
+            <firstname>Vu</firstname>
+            <lastname>A</lastname>
+            <email>a@gmail.com</email>
+            <phone>325235235</phone>
+            <age>23</age>
+            <position>Hieu pho</position>
+            <department>toa C</department>
+        </teacher>
+    </user>
+    <user>
+        <employee id="1">
+            <firstname>Vu</firstname>
+            <lastname>Tu</lastname>
+            <email>vntu1409@gmail.com</email>
+            <phone>52957295725</phone>
+            <age>30</age>
+            <experience>2</experience>
+            <class>2A</class>
+        </employee>
+    </user>
+    <user>
+        <employee id="2">
+            <firstname>Vu</firstname>
+            <lastname>Tu</lastname>
+            <email>vntu109@gmail.com</email>
+            <phone>23523523</phone>
+            <age>23</age>
+            <experience>2</experience>
+            <class>2B</class>
+        </employee>
+    </user>
+    <user>
+        <employee id="3">
+            <firstname>Vu</firstname>
+            <lastname>Ta</lastname>
+            <email>vntu109@gmail.com</email>
+            <phone>23523523</phone>
+            <age>23</age>
+            <experience>2</experience>
+            <class>3B</class>
+        </employee>
+    </user>
+</users>
